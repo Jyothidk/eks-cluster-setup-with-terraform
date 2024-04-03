@@ -1,4 +1,4 @@
-# terraform-eks
+# EKS Cluster setup with Terraform
 A sample repository to create EKS on AWS using Terraform.
 
 ### Install AWS CLI 
